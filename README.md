@@ -108,7 +108,7 @@ The Surprise is that you don't need anything to follow Sengineer.io, what you wi
       ---
 
    - A computer (Windows/Mac/Linux),That's it! 💻
-   - A comforting orgnized Learning Schedule 💆🏽
+   - A comforting organized Learning Schedule 💆🏽
    - Having the passion to learn Software Engineering can enhance your learning experience tremendously 😉
    - Prepare to fall in love with Software Engineering!
 
@@ -141,7 +141,7 @@ Suggested Paths for your `Software Engineering` learning Journey, for each modul
 
 <details>
 
-<summary>List of Paths that make your learning Journey valuable | <b>Click to expand</b> </summary>
+<summary>List of Paths that make your Learning Journey valuable | <b>Click to expand</b> </summary>
 
 
 <br>
@@ -160,7 +160,7 @@ Suggested Paths for your `Software Engineering` learning Journey, for each modul
    2. Concepts of Programming Languages
    3. Hardware and Operating Systems
    4. Distributed and Parallel Computing
-   5. Netowrk Programming 
+   5. Netowork Programming 
    6. Cyber Security
 
 </details>
@@ -339,7 +339,7 @@ Suggested Paths for your `Software Engineering` learning Journey, for each modul
 
 ## **Languages and Frameworks 🧃**
 
-In this section you can pick a one of the modernist programming languages/ Frameowkrs available and master it, with a guided and Applied Real life project E.g (**Rust**, **Node.js**, **Go**, **React**) etc...
+In this section you can pick a one of the modernist programming languages/ Frameworks available and master it, with a guided and Applied Real life project E.g (**Rust**, **Node.js**, **Go**, **React**) etc...
 
 <br>
 
